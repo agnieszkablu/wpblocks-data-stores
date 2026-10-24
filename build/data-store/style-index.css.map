@@ -1,0 +1,1 @@
+{"version":3,"file":"data-store/style-index.css","mappings":";;;AAAA;EACC;EACA;EACA;AACD,C","sources":["webpack://boilerplate/./src/data-store/style.scss"],"sourcesContent":[".wp-block-wpblocks-data-store {\n\tbackground-color: #21759b;\n\tcolor: #fff;\n\tpadding: 2px;\n}\n"],"names":[],"ignoreList":[],"sourceRoot":""}

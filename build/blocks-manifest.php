@@ -1,12 +1,12 @@
 <?php
 // This file is generated. Do not modify it manually.
 return array(
-	'boilerplate' => array(
+	'data-store' => array(
 		'$schema' => 'https://schemas.wp.org/trunk/block.json',
 		'apiVersion' => 3,
-		'name' => 'create-block/boilerplate',
+		'name' => 'wpblocks/data-store',
 		'version' => '0.1.0',
-		'title' => 'Boilerplate',
+		'title' => 'Data store demo',
 		'category' => 'widgets',
 		'icon' => 'smiley',
 		'description' => 'Example block scaffolded with Create Block tool.',
